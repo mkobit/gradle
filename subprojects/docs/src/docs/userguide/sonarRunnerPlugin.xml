@@ -17,7 +17,7 @@
     <title>The SonarQube Runner Plugin</title>
     <note>
         <para>
-            This plugin has been deprecated and superseded by the <ulink url="http://docs.sonarqube.org/display/SONAR/Analyzing+with+Gradle">official plugin from SonarQube</ulink>.
+            This plugin has been deprecated and superseded by the <ulink url="http://docs.sonarqube.org/display/SONAR/Analyzing+with+SonarQube+Scanner+for+Gradle">official plugin from SonarQube</ulink>.
             This plugin will be removed in Gradle 3.0.
         </para>
     </note>
