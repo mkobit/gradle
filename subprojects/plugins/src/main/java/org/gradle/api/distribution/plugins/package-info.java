@@ -15,7 +15,7 @@
  */
 
 /**
- * The the distribution plugin itself.
+ * The distribution plugin itself.
  */
 @org.gradle.api.Incubating
 package org.gradle.api.distribution.plugins;
